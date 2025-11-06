@@ -1,5 +1,5 @@
 {
-  "name": "astropie",
+  "name": "llmcd2025",
   "type": "module",
   "version": "0.0.2",
   "scripts": {
@@ -9,17 +9,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/alpinejs": "^0.4.6",
-    "@astrojs/mdx": "^4.2.4",
+    "@astrojs/alpinejs": "^0.4.9",
+    "@astrojs/mdx": "^4.3.9",
     "@playform/inline": "^0.1.2",
-    "@tailwindcss/typography": "^0.5.16",
-    "@tailwindcss/vite": "^4.1.4",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.1.16",
     "@types/alpinejs": "^3.13.11",
-    "alpinejs": "^3.14.9",
-    "astro": "^5.7.4",
-    "glightbox": "^3.3.0",
+    "alpinejs": "^3.15.1",
+    "astro": "^5.15.3",
+    "glightbox": "^3.3.1",
     "masonry-layout": "^4.2.2",
-    "swiper": "^11.1.15",
-    "tailwindcss": "^4.1.4"
+    "swiper": "^11.2.10",
+    "tailwindcss": "^4.1.16"
   }
 }

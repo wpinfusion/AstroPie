@@ -1,4 +1,4 @@
-# AstroPie
+# LLMCD2025 >>> DO NOT USE, THIS IS AN EXPERIMENT 20251106 JRF
 
 AstroPie is a free theme for the Astro framework, designed to provide a beautiful and functional starting point for your next restaurant or bistro website. Whether you're running an Italian restaurant, a cozy bistro, or any other type of dining establishment, AstroPie has you covered with its clean design and easy-to-use components.
 
