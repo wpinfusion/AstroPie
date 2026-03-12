@@ -9,14 +9,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/alpinejs": "^0.5.0-beta.1",
-    "@astrojs/mdx": "^5.0.0-beta.11",
+    "@astrojs/alpinejs": "^0.5.0",
+    "@astrojs/mdx": "^5.0.0",
     "@playform/inline": "^0.1.2",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.2.1",
     "@types/alpinejs": "^3.13.11",
     "alpinejs": "^3.15.8",
-    "astro": "^6.0.0-beta.19",
+    "astro": "^6.0.4",
     "glightbox": "^3.3.0",
     "masonry-layout": "^4.2.2",
     "swiper": "^12.1.2",
